@@ -6,7 +6,7 @@ import { ScrollToTop } from './Components/scrollToTop.jsx'
 
 createRoot(document.getElementById('root')).render(
   <BrowserRouter>
-    <ScrollToTop/>
+    {/* <ScrollToTop/> */}
     <App />
   </BrowserRouter>
 
